@@ -1,0 +1,16 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\bin\Debug\WPFxamlStackPanel.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\bin\Debug\WPFxamlStackPanel.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\bin\Debug\WPFxamlStackPanel.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFxamlStackPanel\WPFxamlStackPanel\obj\Debug\WPFxamlStackPanel.pdb
